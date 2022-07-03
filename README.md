@@ -15,6 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=lucreciaef&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=lucreciaef&icon=8&color=11)](https://visitcount.itsvg.in)
 
