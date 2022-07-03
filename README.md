@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I’m currently working as QA & Support Engineer<br>🔭 I’m currently studying Computer Science (BSc)<br>🌱 I’m currently learning Java and Test Automation<br>💬 Ask me something about Languages and Linguistics!<br>⚡ Fun fact: I sing in a metal band
+⚡ I’m currently working as QA & Support Engineer<br>🔭 I’m currently studying Computer Science (BSc)<br>🌱 I’m currently learning Java and Test Automation<br>💬 Ask me something about Languages and Linguistics!<br>
 
 
 ## 🌐 Socials:
