@@ -12,7 +12,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
  
 ## 🌱 My Skills Chart:
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaef&bg=%2328292b" width="700px">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaef&bg=%2328292b&textcolor=%23fff" width="700px">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucreciaef&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
