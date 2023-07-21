@@ -13,9 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
  
 ## 🌱 My Skills Chart:
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaefE&skills=JavaScript&show-other-skills=true&width=700"
-/>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nolimits4web&skills=Vue,C%2B%2B,C%23,SCSS,Svelte&width=820"
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaef&skills=JavaScript,Java,Python,C%2B%2B,HTML,CSS&width=700"
 />
 
 # 📊 GitHub Stats:
