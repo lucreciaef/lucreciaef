@@ -13,7 +13,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
  
 ## 🌱 My Skills Chart:
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaefE&skills=JavaScript,Java,Kotlin,Python&show-other-skills=true&bg=%23c2c9d6"/>
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lucreciaefE&?skills=JavaScript,Kotlin,Java,Python,C%2B%2B&?show-other-skills=true&?bg=%23c2c9d6"/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lucreciaef&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
