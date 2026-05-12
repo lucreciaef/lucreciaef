@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ I'm QA Lead / Test Manager / Support Engineer<br>🔭 I’m studying Computer Science (BSc)<br>💫 I have a degree in English Applied Linguistics<br>
+⚡ I'm Product Owner / QA Lead / Test Manager<br>🔭 I’m studying Computer Science (BSc)<br>💫 I have a degree in English Applied Linguistics<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lucreciaef) 
 
 # 💻 Tech Stack:
